@@ -1,4 +1,4 @@
-package com.hardkernel.odroid.canexamle;
+package com.hardkernel.odroid.CanExample;
 
 import org.junit.Test;
 
